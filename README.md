@@ -52,7 +52,7 @@ The notebook aims to provide a comprehensive analysis of the nutritional content
 ## Authors
 - Alireza Hatami
 - Aryan Jain
-- Ziheng Chen
+- Ziheng Chen (George)
 - Sai Pokuri 
 
 
