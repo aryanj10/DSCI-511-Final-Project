@@ -1,0 +1,164 @@
+product,Serving size,Calories,Fat,Sat. Fat,Trans Fat,Cholesterol,Sodium,Carbohydrates,Fiber,Sugar,Protein,menu_item,Fast Food Chain
+ChickfilA Chicken Biscuit,153g,460,23,8,0,45,1510,45,2,6,19,Breakfast,ChickfilA
+Spicy Chicken Biscuit,153g,450,22,8,0,40,1570,44,2,5,19,Breakfast,ChickfilA
+ChickfilA ChicknMinis,127g,360,13,4,0,60,1060,41,2,8,20,Breakfast,ChickfilA
+Egg White Grill,175g,300,8,4,0,65,1020,31,2,2,28,Breakfast,ChickfilA
+Hash Brown Scramble Burrito,304g,700,40,12,0.5,415,1770,51,3,2,34,Breakfast,ChickfilA
+Hash Brown Scramble Bowl,233g,470,30,9,0,415,1350,19,2,2,29,Breakfast,ChickfilA
+Chicken Egg  Cheese Biscuit,211g,550,28,12,0,215,1870,48,3,7,27,Breakfast,ChickfilA
+Bacon Egg  Cheese Biscuit,145g,420,23,11,0,180,1290,38,2,5,16,Breakfast,ChickfilA
+Sausage Egg  Cheese Biscuit,192g,620,42,18,0,205,1510,38,2,4,22,Breakfast,ChickfilA
+Chicken Egg  Cheese Muffin,190g,420,19,6,0,215,1350,37,1,4,27,Breakfast,ChickfilA
+Bacon Egg  Cheese Muffin,129g,310,13,6,0,180,800,30,2,2,17,Breakfast,ChickfilA
+Sausage Egg  Cheese Muffin,175g,500,33,12,0,205,1030,30,1,2,23,Breakfast,ChickfilA
+Hash Browns,77g,270,18,2.5,0,0,440,23,3,0,3,Breakfast,ChickfilA
+Greek Yogurt Parfait,221g,270,9,3.5,0,20,80,36,1,26,13,Breakfast,ChickfilA
+Fruit Cup,125g,70,0,0,0,0,0,16,2,12,1,Breakfast,ChickfilA
+Breakfast Breads,81g,290,15,6,0,0,760,37,2,4,4,Breakfast,ChickfilA
+ChickfilA Chicken Sandwich,183g,420,18,3.5,0,70,1460,41,1,6,29,Entrées,ChickfilA
+ChickfilA Deluxe Sandwich,247g,490,22,6,0,85,1700,43,1,7,32,Entrées,ChickfilA
+Spicy Chicken Sandwich,188g,450,19,4,0,65,1730,45,1,6,28,Entrées,ChickfilA
+Spicy Deluxe Sandwich,252g,520,25,7,0,80,1790,46,2,7,31,Entrées,ChickfilA
+Grilled Chicken Sandwich,218g,390,12,2,0,75,770,44,3,12,28,Entrées,ChickfilA
+ChickfilA Grilled Chicken Club Sandwich,249g,520,22,8,0,105,1130,45,3,12,38,Entrées,ChickfilA
+ChickfilA Nuggets,113g,250,11,2.5,0,85,1210,11,0,1,27,Entrées,ChickfilA
+Grilled Nuggets,95g,130,3,0.5,0,85,440,1,0,1,25,Entrées,ChickfilA
+ChickfilA ChicknStrips,136g,310,14,2.5,0,75,870,16,0,2,29,Entrées,ChickfilA
+ChickfilA Cool Wrap,231g,660,45,9,0,110,1420,32,14,5,43,Entrées,ChickfilA
+Cobb Salad,411g,830,60,13,0,230,2220,31,5,8,42,Salads,ChickfilA
+Spicy Southwest Salad,424g,680,49,10,0,100,1570,27,7,7,33,Salads,ChickfilA
+Market Salad,326g,550,31,6,0,80,1010,42,5,26,28,Salads,ChickfilA
+ChickfilA Waffle Potato Fries,125g,420,24,4,0,0,240,45,5,1,5,Sides,ChickfilA
+Fruit Cup,125g,70,0,0,0,0,0,16,2,12,1,Sides,ChickfilA
+Side Salad,166g,530,47,8,0,35,730,16,5,5,8,Sides,ChickfilA
+Mac  Cheese,227g,450,29,16,0,70,1190,28,3,3,20,Sides,ChickfilA
+Chicken Noodle Soup,233g,170,4,1,0,30,1220,25,1,1,10,Sides,ChickfilA
+Chicken Tortilla Soup,269g,340,11,3,0,50,1070,38,17,4,24,Sides,ChickfilA
+Kale Crunch Side,112g,170,12,1.5,0,0,250,13,4,8,4,Sides,ChickfilA
+Greek Yogurt Parfait,221g,270,9,3.5,0,20,80,36,1,26,13,Sides,ChickfilA
+Waffle Potato Chips,43g,220,13,3.5,0,0,250,25,2,0,3,Sides,ChickfilA
+Buddy Fruits Apple Sauce,90g,45,0,0,0,0,0,12,1,8,0,Sides,ChickfilA
+5 Ct Nuggets Kids Meal,71g,160,7,1.5,0,50,760,7,0,1,17,Kids Meals,ChickfilA
+2 Ct ChicknStrips Kids Meal,91g,200,9,2,0,50,580,11,0,1,19,Kids Meals,ChickfilA
+5 Ct Grilled Nuggets Kids Meal,59g,80,2,0,0,55,270,1,0,0,16,Kids Meals,ChickfilA
+Frosted Lemonade,383g,320,6,3.5,0,25,120,65,0,63,6,Treats,ChickfilA
+Frosted Coffee,383g,230,6,3.5,0,25,125,39,0,39,6,Treats,ChickfilA
+Chocolate Chunk Cookie,78g,370,17,9,0,15,230,49,3,26,5,Treats,ChickfilA
+Chocolate Fudge Brownie,85g,370,21,8,0,65,140,47,2,35,4,Treats,ChickfilA
+Peppermint Chip Milkshake,404g,670,23,15,1,80,360,109,1,94,11,Treats,ChickfilA
+Cookies  Cream Milkshake,411g,630,26,15,1,90,440,90,1,84,13,Treats,ChickfilA
+Chocolate Milkshake,399g,590,22,14,1,85,360,90,1,87,12,Treats,ChickfilA
+Strawberry Milkshake,412g,590,20,13,0.5,80,410,93,1,88,11,Treats,ChickfilA
+Vanilla Milkshake,409g,580,23,15,1,90,390,82,1,80,13,Treats,ChickfilA
+ChickfilA Icedream Cone,135g,180,4,2.5,0,15,90,32,0,25,4,Treats,ChickfilA
+ChickfilA Icedream Cup,122g,140,3.5,2.5,0,15,75,24,0,24,4,Treats,ChickfilA
+FreshlyBrewed Iced Tea Sweetened,562g,100,0,0,0,0,0,26,0,26,0,Drinks,ChickfilA
+FreshlyBrewed Iced Tea Unsweetened,547g,0,0,0,0,0,0,0,0,0,0,Drinks,ChickfilA
+ChickfilA Lemonade,600g,270,0,0,0,0,0,69,0,63,0,Drinks,ChickfilA
+ChickfilA Diet Lemonade,600g,60,0,0,0,0,10,16,0,12,0,Drinks,ChickfilA
+Sunjoy 12 Sweet Tea 12 Lemonade,557g,180,0,0,0,0,0,45,0,43,0,Drinks,ChickfilA
+Sunjoy 12 Sweet Tea 12 Diet Lemonade,551g,100,0,0,0,0,0,25,0,24,0,Drinks,ChickfilA
+Sunjoy 12 Unsweet Tea 12 Lemonade,551g,90,0,0,0,0,0,25,0,23,0,Drinks,ChickfilA
+Sunjoy 12 Unsweet Tea 12 Diet Lemonade,551g,20,0,0,0,0,0,6,0,4,0,Drinks,ChickfilA
+Iced Coffee,437g,130,2.5,1.5,0,10,70,23,0,23,4,Drinks,ChickfilA
+CocaCola,354g,140,0,0,0,0,50,40,0,40,0,Drinks,ChickfilA
+Dr Pepper,434g,180,0,0,0,0,75,48,0,47,0,Drinks,ChickfilA
+DASANI Bottled Water,479g,0,0,0,0,0,0,0,0,0,0,Drinks,ChickfilA
+Honest Kids Apple Juice,170g,35,0,0,0,0,15,9,0,8,0,Drinks,ChickfilA
+Simply Orange,326g,160,0,0,0,0,10,34,0,30,2,Drinks,ChickfilA
+1 Chocolate Milk,198g,140,2,1.5,0,10,160,23,0,21,7,Drinks,ChickfilA
+1 Milk,213g,90,2,1.5,0,10,105,10,0,10,7,Drinks,ChickfilA
+Coffee,340g,0,0,0,0,0,10,0,0,0,0,Drinks,ChickfilA
+Gallon Beverages,3884g,2090,1.5,0,0,0,95,549,2,517,2,Drinks,ChickfilA
+Ice Products,298g,0,0,0,0,0,0,0,0,0,0,Drinks,ChickfilA
+Barbeque Sauce,28g,45,0,0,0,0,200,11,0,9,0,Dipping Sauces,ChickfilA
+ChickfilA Sauce,28g,140,13,2,0,10,170,6,0,6,0,Dipping Sauces,ChickfilA
+Garden Herb Ranch Sauce,28g,140,15,2.5,0,10,220,1,0,1,1,Dipping Sauces,ChickfilA
+Honey Mustard Sauce,28g,50,0,0,0,0,160,11,0,10,0,Dipping Sauces,ChickfilA
+Polynesian Sauce,28g,110,6,1,0,0,210,14,0,13,0,Dipping Sauces,ChickfilA
+Sweet and Spicy Sriracha Sauce,28g,45,0,0,0,0,380,11,0,10,0,Dipping Sauces,ChickfilA
+Zesty Buffalo Sauce,21g,25,2.5,0,0,5,570,1,0,0,0,Dipping Sauces,ChickfilA
+Honey Roasted BBQ Sauce,12g,60,5,1,0,5,75,3,0,2,0,Dipping Sauces,ChickfilA
+Avocado Lime Ranch Dressing,57g,310,32,5,0,25,520,3,1,2,1,Dressings,ChickfilA
+Creamy Salsa Dressing,57g,290,31,5,0,25,630,2,0,1,1,Dressings,ChickfilA
+Fat Free Honey Mustard Dressing,57g,90,0,0,0,0,330,22,1,18,0,Dressings,ChickfilA
+Garden Herb Ranch Dressing,57g,280,29,5,0,25,440,2,0,1,1,Dressings,ChickfilA
+Light Balsamic Vinaigrette Dressing,57g,80,4,0.5,0,0,360,10,0,9,0,Dressings,ChickfilA
+Light Italian Dressing,57g,25,1,0,0,0,470,3,0,2,0,Dressings,ChickfilA
+Zesty Apple Cider Vinaigrette Dressing,56g,230,19,3,0,0,450,16,0,14,0,Dressings,ChickfilA
+Grilled Breakfast Filet,50g,60,1,0,0,40,420,0,0,0,13,Proteins,ChickfilA
+Bacon,10g,50,3.5,1.5,0,10,210,0,0,0,4,Proteins,ChickfilA
+ChickfilA Breakfast Filet,72g,160,8,1.5,0,45,750,8,0,2,15,Proteins,ChickfilA
+Sausage,57g,240,22,8,0,35,430,1,0,0,11,Proteins,ChickfilA
+Spicy Breakfast Filet,62g,130,6,1.5,0,35,710,6,0,1,14,Proteins,ChickfilA
+Grilled Filet,84g,110,2,0,0,70,370,1,0,1,21,Proteins,ChickfilA
+Spicy Filet,120g,280,13,2.5,0,65,1390,16,1,2,23,Proteins,ChickfilA
+ChickfilA Filet,120g,260,12,2.5,0,75,1170,13,0,2,25,Proteins,ChickfilA
+Bacon,10g,50,3.5,1.5,0,10,210,0,0,0,4,Sandwich Toppings,ChickfilA
+Lettuce,20g,5,0,0,0,0,5,1,0,0,0,Sandwich Toppings,ChickfilA
+Tomato,30g,5,0,0,0,0,0,1,0,1,0,Sandwich Toppings,ChickfilA
+American Cheese,14g,50,4.5,2.5,0,15,230,1,0,0,3,Sandwich Toppings,ChickfilA
+Colby Jack Cheese,21g,80,7,4,0,20,140,0,0,0,5,Sandwich Toppings,ChickfilA
+Pepper Jack Cheese,21g,80,6,4,0,20,140,0,0,0,4,Sandwich Toppings,ChickfilA
+Gluten Free Bun,79g,180,3.5,0,0,0,400,37,2,7,3,Buns,ChickfilA
+White Bun Buttered,60g,180,6,1,0,0,240,29,1,4,5,Buns,ChickfilA
+Multigrain Brioche Bun,71g,210,4.5,1,0,0,310,38,3,7,7,Buns,ChickfilA
+White Bun Unbuttered,54g,150,1,0,0,0,240,28,1,4,5,Buns,ChickfilA
+Blue Cheese Crumbles,9g,30,2.5,1.5,0,10,110,0,0,0,2,Salad Toppings,ChickfilA
+Chili Lime Pepitas,14g,80,7,1,0,0,50,2,1,0,4,Salad Toppings,ChickfilA
+Crispy Bell Peppers,14g,80,6,0,0,0,75,6,0,0,1,Salad Toppings,ChickfilA
+Harvest Nut Granola,14g,70,2,0,0,0,35,10,0,4,1,Salad Toppings,ChickfilA
+Roasted Nut Blend,10g,70,6,0.5,0,0,0,2,1,1,1,Salad Toppings,ChickfilA
+Seasoned Tortilla Strips,14g,70,4,0,0,0,55,8,1,0,1,Salad Toppings,ChickfilA
+Saltines,12g,50,1,0,0,0,180,9,0,0,1,Soup Toppings,ChickfilA
+Grilled Chicken Bundleper sandwich,269g,530,21,8,0,135,1390,37,3,9,49,Trays,ChickfilA
+Hot ChickfilA Nugget Trays,14g,30,1.5,0,0,10,150,1,0,0,3,Trays,ChickfilA
+Chilled ChickfilA Nugget Trays,14g,30,1.5,0,0,10,150,1,0,0,3,Trays,ChickfilA
+Hot ChicknStrips Trays,47g,110,5,1,0,25,300,6,0,1,10,Trays,ChickfilA
+Chilled ChicknStrips Trays,48g,110,5,1,0,25,300,6,0,1,10,Trays,ChickfilA
+Chilled Grilled Chicken Sub Sandwich Tray,115g,220,6,2.5,0,45,490,25,2,4,18,Trays,ChickfilA
+Spicy Chilled Grilled Chicken Sub Sandwich Tray,120g,220,6,2.5,0,40,660,25,2,5,16,Trays,ChickfilA
+ChickfilA Cool Wrap Trays,116g,480,39,7,0,70,970,18,7,3,22,Trays,ChickfilA
+Southwest Veggie Wrap Trays,128g,460,39,8,0,35,940,19,8,3,14,Trays,ChickfilA
+Spicy Cool Wrap Trays,116g,1405,110,18.5,0,105,3650,87,9,63,22,Trays,ChickfilA
+Fruit Tray,1446g,780,0,0,0,0,0,182,29,134,8,Trays,ChickfilA
+Mac  Cheese Tray,2482g,4930,312,178,3.5,750,13030,308,31,36,221,Trays,ChickfilA
+Garden Salad Tray,595g,310,18,11,0.5,55,420,20,9,11,19,Trays,ChickfilA
+Kale Crunch Side Tray,610g,1160,87,9,0,0,1420,77,23,42,30,Trays,ChickfilA
+Chocolate Chunk Cookie Tray,78g,370,17,9,0,15,230,49,3,26,5,Trays,ChickfilA
+Chocolate Fudge Brownie Tray,43g,190,10,4,0,35,70,23,1,18,2,Trays,ChickfilA
+Chocolate Chunk Cookie and Chocolate Fudge Brownie Tray,60g,280,14,7,0,25,150,36,2,22,3,Trays,ChickfilA
+ChickfilA Chicken Sandwich,183g,420,18,3.5,0,70,1460,41,1,6,29,Catering Entrées,ChickfilA
+Spicy Chicken Sandwich,188g,450,19,4,0,65,1730,45,1,6,28,Catering Entrées,ChickfilA
+ChickfilA Nuggets,71g,160,7,1.5,0,50,760,7,0,1,17,Catering Entrées,ChickfilA
+Chilled Grilled Chicken Sub Sandwich,230g,440,12,5,0,90,980,49,5,9,36,Catering Entrées,ChickfilA
+Spicy Chilled Grilled Chicken Sub Sandwich,230g,430,12,5,0,85,1320,50,5,9,33,Catering Entrées,ChickfilA
+Gallon FreshlyBrewed Iced Tea Sweetened,4167g,1540,0,0,0,0,115,398,0,397,0,Catering Drinks,ChickfilA
+Gallon FreshlyBrewed Iced Tea Unsweetened,3808g,0,0,0,0,0,0,0,0,0,0,Catering Drinks,ChickfilA
+Gallon ChickfilA Iced Tea 12 Sweet Tea 12 Unsweet Tea,3904g,790,0,0,0,0,0,205,0,205,0,Catering Drinks,ChickfilA
+Gallon ChickfilA Lemonade,3884g,2090,1.5,0,0,0,95,549,2,517,2,Catering Drinks,ChickfilA
+Gallon ChickfilA Diet Lemonade,3716g,460,1.5,0,0,0,95,126,2,91,3,Catering Drinks,ChickfilA
+Gallon ChickfilA Lemonade 12 Lemonade 12 Diet Lemonade,3989g,1390,0.5,0,0,0,40,389,1,350,1,Catering Drinks,ChickfilA
+Gallon Sunjoy 12 Sweet Tea 12 Lemonade,4176g,1970,0,0,0,0,0,506,2,481,2,Catering Drinks,ChickfilA
+Gallon Sunjoy 12 Sweet Tea 12 Diet Lemonade,3997g,1030,1,0,0,0,50,270,1,252,1,Catering Drinks,ChickfilA
+Gallon Sunjoy 12 Unsweet Tea 12 Lemonade,3898g,1040,0,0,0,0,0,291,0,271,0,Catering Drinks,ChickfilA
+Gallon Sunjoy 12 Unsweet Tea 12 Diet Lemonade,3719g,240,1,0,0,0,50,65,1,47,1,Catering Drinks,ChickfilA
+DASANI Bottled Water,479g,0,0,0,0,0,0,0,0,0,0,Catering Drinks,ChickfilA
+Simply Orange,326g,160,0,0,0,0,10,34,0,30,2,Catering Drinks,ChickfilA
+Bottled Sweet Tea,506g,190,0,0,0,0,15,48,0,48,0,Catering Drinks,ChickfilA
+Bottled Unsweet Tea,486g,0,0,0,0,0,15,0,0,0,0,Catering Drinks,ChickfilA
+Bottled Lemonade,520g,280,0,0,0,0,10,73,0,69,0,Catering Drinks,ChickfilA
+Bottled Diet Lemonade,492g,60,0,0,0,0,10,17,0,12,0,Catering Drinks,ChickfilA
+Honest Kids Apple Juice,170g,35,0,0,0,0,15,9,0,8,0,Catering Drinks,ChickfilA
+Honest Kids Fruit Punch,0g,0,0,0,0,0,0,0,0,0,0,Catering Drinks,ChickfilA
+1 Milk,213g,90,2,1.5,0,10,105,10,0,10,7,Catering Drinks,ChickfilA
+1 Chocolate Milk,198g,140,2,1.5,0,10,160,23,0,21,7,Catering Drinks,ChickfilA
+Bag of Ice,28g,0,0,0,0,0,0,0,0,0,0,Catering Drinks,ChickfilA
+Ice Scoop,0g,0,0,0,0,0,0,0,0,0,0,Catering Drinks,ChickfilA
+Ice Bucket,0g,0,0,0,0,0,0,0,0,0,0,Catering Drinks,ChickfilA
+Catering Coffee,2722g,0,0,0,0,0,80,0,0,0,0,Catering Drinks,ChickfilA
+8oz ChickfilA Sauce,226g,1140,103,17,1.5,70,1390,50,1,47,2,Catering Sauces,ChickfilA
+8oz Polynesian Sauce,224g,860,48,8,0.5,0,1680,107,2,102,1,Catering Sauces,ChickfilA
+8oz Garden Herb Ranch Sauce,226g,1100,117,20,2,95,1780,8,0,5,4,Catering Sauces,ChickfilA
+8oz Honey Mustard Sauce,227g,380,3,0,0,0,1250,88,1,78,2,Catering Sauces,ChickfilA
+8oz Barbeque Sauce,226g,360,0,0,0,0,1560,88,2,71,2,Catering Sauces,ChickfilA

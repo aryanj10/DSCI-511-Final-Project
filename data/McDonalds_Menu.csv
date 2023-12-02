@@ -1,0 +1,122 @@
+product,product-id,link,Calories,Calories From Fat,Energy kJ,Protein,Carbohydrates,Dietary Fiber 2015,Total Sugars,Added Sugars,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Vitamin B6,Vitamin D,Calcium,Iron,Phosphorus,Potassium,Sodium,Caffeine,Dietary Fiber,menu_item,Fast Food Chain
+Big Mac,200463,/us/en-us/product/big-mac.html,590,310,2480,25,46,3,9,7,34,11,1,85,0,0,120,4.5,0,390,1050,0,3,Burgers,McDonalds
+Quarter Pounder with Cheese,200466,/us/en-us/product/quarter-pounder-with-cheese.html,520,230,2170,30,42,2,10,8,26,12,1.5,95,0,0,190,4,2,420,1140,0,,Burgers,McDonalds
+Double Quarter Pounder with Cheese,200476,/us/en-us/product/double-quarter-pounder-with-cheese.html,740,380,3090,48,43,2,10,8,42,20,2.5,165,0,0,200,6,2,660,1360,0,,Burgers,McDonalds
+Quarter Pounder with Cheese Deluxe,200765,/us/en-us/product/deluxe-quarter-pounder-with-cheese.html,630,330,2620,30,44,3,11,8,37,14,1.5,105,0,0,200,4.5,2,500,1210,0,,Burgers,McDonalds
+McDouble,200491,/us/en-us/product/mcdouble.html,400,180,1660,22,33,2,7,5,20,9,1,70,0,0,100,3.5,0,330,920,0,2,Burgers,McDonalds
+Quarter Pounder with Cheese Bacon,203410,/us/en-us/product/quarter-pounder-bacon.html,630,310,2620,36,43,3,10,8,35,15,1.5,115,0,0,190,4.5,2,490,1470,0,,Burgers,McDonalds
+Cheeseburger,200480,/us/en-us/product/cheeseburger.html,300,110,1270,15,32,2,7,5,13,6,0.5,40,0,0,100,3,0,220,720,0,2,Burgers,McDonalds
+Double Cheeseburger,200486,/us/en-us/product/double-cheeseburger.html,450,210,1870,25,34,2,7,5,24,11,1.5,85,0,0,180,3.5,0,350,1120,0,2,Burgers,McDonalds
+Hamburger The Classic McDonalds Burger,200477,/us/en-us/product/hamburger.html,250,80,1060,12,31,1,6,5,9,3.5,0,30,0,0,20,3,0,200,510,0,1,Burgers,McDonalds
+McFlurry with OREO Cookies,200101,/us/en-us/product/mcflurry-with-oreo-cookies.html,510,140,2150,12,80,1,60,48,16,8,0.5,40,0,0,380,1.5,0,540,260,0,,Sweets Treats,McDonalds
+McFlurry with MMS Candies,200096,/us/en-us/product/mm-candy-mcflurry.html,640,190,2660,13,96,2,83,69,21,14,0.5,45,0,0,440,0.5,0,670,200,0,,Sweets Treats,McDonalds
+Vanilla Cone,200062,/us/en-us/product/vanilla-cone.html,200,45,840,5,33,0,23,17,5,3,0,20,0,0,180,0.5,0,240,80,0,,Sweets Treats,McDonalds
+Chocolate Shake,200107,/us/en-us/product/chocolate-shake-small.html,520,130,2190,12,85,1,67,54,14,9,0.5,55,0,0,400,0.5,0,640,250,0,,Sweets Treats,McDonalds
+Vanilla Shake,200108,/us/en-us/product/vanilla-shake-small.html,480,110,2000,10,80,0,51,40,13,8,0.5,50,0,0,340,0,0,460,210,0,,Sweets Treats,McDonalds
+Strawberry Shake,200109,/us/en-us/product/strawberry-shake-small.html,470,120,1980,10,77,0,58,46,13,8,0.5,50,0,0,350,0,0,500,160,0,,Sweets Treats,McDonalds
+Hot Fudge Sundae,200074,/us/en-us/product/hot-fudge-sundae.html,330,90,1360,8,51,2,44,36,10,7,0,25,0,0,260,0.5,0,420,170,0,,Sweets Treats,McDonalds
+Hot Caramel Sundae,200081,/us/en-us/product/hot-caramel-sundae.html,330,70,1380,7,58,0,41,34,7,4.5,0,30,0,0,240,0,0,320,150,0,,Sweets Treats,McDonalds
+Baked Apple Pie,200007,/us/en-us/product/baked-hot-apple-pie.html,230,90,980,2,33,1,14,13,11,6,0,0,0,0,6,1,0,70,100,0,,Sweets Treats,McDonalds
+Chocolate Chip Cookie,200009,/us/en-us/product/chocolate-chip-cookie.html,170,70,690,2,22,1,15,15,8,4,0,10,0,0,10,2,0,60,95,0,,Sweets Treats,McDonalds
+World Famous Fries,200066,/us/en-us/product/small-french-fries.html,230,100,950,3,31,3,0,0,11,1.5,0,0,0,0,10,0.5,0,470,190,0,,Fries Sides,McDonalds
+Apple Slices,200068,/us/en-us/product/apple-slices.html,15,0,60,0,4,0,3,0,0,0,0,0,0,0,10,0,0,35,0,0,,Fries Sides,McDonalds
+Tangy Barbeque Sauce,200412,/us/en-us/product/tangy-barbeque-sauce.html,45,0,200,0,11,0,9,9,0,0,0,0,0,0,4,0,0,55,260,0,,Fries Sides,McDonalds
+Spicy Buffalo Sauce,200295,/us/en-us/product/spicy-buffalo-sauce.html,30,30,140,0,1,0,0,0,3,0,0,0,0,0,0,0,0,20,520,0,,Fries Sides,McDonalds
+Creamy Ranch Sauce,200293,/us/en-us/product/creamy-ranch-sauce.html,110,100,460,0,1,0,1,0,12,2,0,5,0,0,4,0,0,10,160,0,,Fries Sides,McDonalds
+Honey Mustard Sauce,200411,/us/en-us/product/honey-mustard-sauce.html,60,30,240,0,6,1,4,4,3.5,0.5,0,5,0,0,6,0,0,10,125,0,,Fries Sides,McDonalds
+Honey,200313,/us/en-us/product/honey.html,50,0,200,0,12,0,11,11,0,0,0,0,0,0,0,0,0,5,0,0,,Fries Sides,McDonalds
+Sweet N Sour Sauce,200315,/us/en-us/product/sweet-n-sour-sauce.html,50,0,200,0,11,0,10,9,0,0,0,0,0,0,2,0,0,35,160,0,,Fries Sides,McDonalds
+Ketchup Packet,200268,/us/en-us/product/ketchup-packet.html,10,0,40,0,2,0,2,2,0,0,0,0,0,0,0,0,0,30,90,0,,Fries Sides,McDonalds
+Mustard Packet,201660,/us/en-us/product/mustard-package.html,0,0,15,0,0,0,0,0,0,0,0,0,0,0,4,0,0,10,70,0,,Fries Sides,McDonalds
+Mayonnaise Packet,201157,/us/en-us/product/mayonnaise-packet.html,90,90,380,0,0,0,0,0,10,1.5,0,10,0,0,0,0,0,0,60,0,,Fries Sides,McDonalds
+Hamburger Happy Meal,203633,/us/en-us/meal/hamburger-happy-meal.html,475,145,2000,22,62,2,20,5,16,5.5,0,40,0,2,296,3.5,0,815,680,0,1,Happy Meal,McDonalds
+4 Piece Chicken McNuggets Happy Meal,203634,/us/en-us/meal/4-piece-chicken-mcnuggets-happy-meal.html,395,155,1640,19,41,1,14,0,17,3.5,0,35,0,2,282,1.0,0,755,500,0,,Happy Meal,McDonalds
+6 Piece Chicken McNuggets Happy Meal,203635,/us/en-us/meal/6-piece-chicken-mcnuggets-happy-meal.html,475,195,1980,24,46,2,14,0,22,4.5,0,50,0,2,286,1.0,0,835,670,0,,Happy Meal,McDonalds
+Caramel Macchiato,203087,/us/en-us/product/caramel-macchiato-small.html,260,60,1080,9,41,0,35,26,6,4,0,25,0,0,290,0,180,490,320,45,,Mccafe Coffees,McDonalds
+Cappuccino,200500,/us/en-us/product/cappuccino-small.html,110,50,480,6,10,0,8,0,5,3.5,0,20,0,0,210,0,160,360,75,45,,Mccafe Coffees,McDonalds
+Caramel Cappuccino,200181,/us/en-us/product/caramel-cappuccino-small.html,210,40,880,7,35,0,31,24,4.5,3,0,20,0,0,230,0,130,400,290,45,,Mccafe Coffees,McDonalds
+French Vanilla Cappuccino,200186,/us/en-us/product/french-vanilla-cappuccino-small.html,210,40,890,5,37,0,28,20,4.5,3,0,20,0,0,180,0,130,330,65,45,,Mccafe Coffees,McDonalds
+Mocha Latte,200006,/us/en-us/product/mccaf-mocha-small.html,290,80,1210,8,45,1,39,29,9,5,0,30,0,0,240,0.5,160,440,125,45,1,Mccafe Coffees,McDonalds
+Americano,202381,/us/en-us/product/espresso-americano-coffee-small-12-oz.html,0,0,15,0,1,0,0,0,0,0,0,0,0,0,10,0,0,90,10,60,,Mccafe Coffees,McDonalds
+Premium Roast Coffee,200020,/us/en-us/product/coffee-small.html,5,0,30,0,1,0,0,0,0,0,0,0,0,0,6,0,0,160,10,0,,Mccafe Coffees,McDonalds
+Iced Caramel Macchiato,203275,/us/en-us/product/iced-caramel-macchiato.html,200,45,850,7,33,0,28,20,5,3,0,20,0,0,230,0,140,380,250,35,,Mccafe Coffees,McDonalds
+Iced Mocha,200407,/us/en-us/product/mccafe-iced-mocha-small.html,280,90,1160,7,39,1,35,25,10,6,0,35,0,2,220,0,140,340,110,35,,Mccafe Coffees,McDonalds
+Iced Coffee,200123,/us/en-us/product/iced-coffee-small.html,140,45,590,2,24,0,22,0,5,3.5,0,20,0,0,40,0,35,140,50,80,,Mccafe Coffees,McDonalds
+Iced Caramel Coffee,200594,/us/en-us/product/iced-coffee-caramel-small.html,140,45,,3,23,0,20,,5,3.5,0,20,0,0,70,0,35,200,220,80,,Mccafe Coffees,McDonalds
+Iced French Vanilla Coffee,204219,/us/en-us/product/iced-coffee-french-vanilla-small.html,150,45,620,1,25,0,17,15,5,3,0,15,0,0,40,0,25,150,35,0,,Mccafe Coffees,McDonalds
+Latte,200358,/us/en-us/product/latte-small.html,140,70,600,7,12,0,11,0,8,4.5,0,25,0,4,260,0,190,370,100,45,,Mccafe Coffees,McDonalds
+Iced Latte,200061,/us/en-us/product/mccaf-iced-latte-small.html,90,40,360,4,7,0,7,0,4.5,2.5,0,15,0,0,160,0,110,250,65,45,,Mccafe Coffees,McDonalds
+Caramel Latte,200699,/us/en-us/product/latte-caramel-small.html,250,60,1050,9,39,0,34,24,7,4,0,25,0,0,300,0,190,500,320,45,,Mccafe Coffees,McDonalds
+Iced Caramel Latte,200195,/us/en-us/product/iced-caramel-latte-small.html,180,40,750,6,29,0,25,18,4.5,2.5,0,20,0,0,220,0,130,360,240,35,,Mccafe Coffees,McDonalds
+French Vanilla Latte,200703,/us/en-us/product/latte-french-vanilla-small.html,250,60,1030,8,39,0,29,19,6,4,0,25,0,0,250,0,190,430,90,45,,Mccafe Coffees,McDonalds
+Iced French Vanilla Latte,200223,/us/en-us/product/iced-french-vanilla-latte-small.html,180,40,760,5,30,0,22,15,4.5,2.5,0,20,0,0,180,0,130,300,65,35,,Mccafe Coffees,McDonalds
+Caramel Frappé,200149,/us/en-us/product/frappe-caramel-small.html,420,160,1770,7,60,1,53,44,17,11,0.5,55,0,0,200,0,0,360,80,70,1,Mccafe Coffees,McDonalds
+Mocha Frappé,200148,/us/en-us/product/frappe-mocha-small.html,430,150,1790,7,61,0,51,45,17,11,0.5,65,0,0,210,0.5,0,430,120,90,0,Mccafe Coffees,McDonalds
+Chicken McNuggets,200692,/us/en-us/product/chicken-mcnuggets-4-piece.html,170,90,700,9,10,0,0,0,10,1.5,0,25,0,0,6,0.5,0,140,330,0,,Mcnuggets Meals,McDonalds
+10 Piece Chicken McNuggets,200567,/us/en-us/product/chicken-mcnuggets-10-piece.html,410,220,1730,23,26,1,0,0,24,4,0,65,0,0,15,1,0,360,850,0,,Mcnuggets Meals,McDonalds
+Bacon Egg   Cheese Biscuit,200300,/us/en-us/product/bacon-egg-cheese-biscuit.html,460,240,1940,17,39,2,3,1,26,13,0,215,0,0,180,3,0,240,1330,0,,Breakfast,McDonalds
+Egg McMuffin,200298,/us/en-us/product/egg-mcmuffin.html,310,120,1280,17,30,2,3,1,13,6,0,250,0,2,170,3,0,200,770,0,,Breakfast,McDonalds
+Sausage McMuffin,200449,/us/en-us/product/sausage-mcmuffin.html,400,230,1680,14,29,2,2,1,26,10,0.5,55,0,0,140,2.5,0,190,760,0,,Breakfast,McDonalds
+Sausage McMuffin with Egg,200161,/us/en-us/product/sausage-mcmuffin-with-egg.html,480,280,2010,20,30,2,2,1,31,12,0.5,280,0,4,170,3,0,260,830,0,,Breakfast,McDonalds
+Sausage Biscuit,200301,/us/en-us/product/sausage-biscuit.html,460,270,1920,11,37,2,2,1,30,13,0,35,0,0,70,2.5,0,200,1090,0,,Breakfast,McDonalds
+Sausage Biscuit  with Egg,200302,/us/en-us/product/sausage-biscuit-with-egg.html,530,310,2230,17,38,2,3,1,35,15,0,225,0,0,110,3.5,0,260,1190,0,,Breakfast,McDonalds
+Bacon Egg  Cheese McGriddles,200304,/us/en-us/product/bacon-egg-cheese-mcgriddles.html,430,190,1800,17,44,2,15,13,21,9,0,215,0,0,190,3,0,220,1230,0,,Breakfast,McDonalds
+Sausage McGriddles,200306,/us/en-us/product/sausage-mcgriddles.html,430,220,1780,11,41,2,14,13,24,9,0,35,0,0,80,2.5,0,180,990,0,,Breakfast,McDonalds
+Sausage Egg  Cheese McGriddles,200307,/us/en-us/product/sausage-egg-cheese-mcgriddles.html,550,300,2290,19,44,2,15,13,33,13,0,235,0,0,190,3,0,270,1290,0,,Breakfast,McDonalds
+Big Breakfast,200322,/us/en-us/product/big-breakfast.html,760,430,3170,26,57,3,3,1,48,18,0,485,0,2,140,4.5,0,560,1530,0,,Breakfast,McDonalds
+Big Breakfast with Hotcakes,200323,/us/en-us/product/big-breakfast-with-hotcakes.html,1340,560,5610,36,158,5,48,41,63,24,0.5,525,0,2,280,7.5,0,980,2070,0,,Breakfast,McDonalds
+Hotcakes,200325,/us/en-us/product/hotcakes.html,580,130,2440,9,101,2,45,40,15,6,0,40,0,0,130,3,0,430,530,0,,Breakfast,McDonalds
+Hotcakes and Sausage,200258,/us/en-us/product/hotcakes-and-sausage.html,770,300,3240,15,102,2,46,40,33,12,0,75,0,0,140,3,0,520,810,0,,Breakfast,McDonalds
+Sausage Burrito,200267,/us/en-us/product/sausage-burrito.html,310,150,1280,13,25,1,2,1,17,7,0,170,0,0,140,2.5,0,170,800,0,,Breakfast,McDonalds
+Hash Browns,200340,/us/en-us/product/hash-browns.html,140,70,610,2,18,2,0,0,8,1,0,0,0,0,8,0.5,0,240,310,0,,Breakfast,McDonalds
+Fruit  Maple Oatmeal,200284,/us/en-us/product/fruit-maple-oatmeal.html,320,40,1340,6,64,4,31,18,4.5,1.5,0,5,0,0,80,2,10,330,150,0,,Breakfast,McDonalds
+Egg McMuffin Meal,200739,/us/en-us/meal/egg-mcmuffin-meal.html,455,190,1920,19,49,4,3,1,21,7,0,250,0,2,184,3.5,0,600,1090,0,,Breakfast,McDonalds
+Sausage McMuffin with Egg Meal,200724,/us/en-us/meal/sausage-mcmuffin-with-egg-meal.html,625,350,2650,22,49,4,2,1,39,13,0.5,280,0,4,184,3.5,0,660,1150,0,,Breakfast,McDonalds
+Sausage Biscuit with Egg Meal,200731,/us/en-us/meal/sausage-biscuit-with-egg-meal.html,675,380,2870,19,57,4,3,1,43,16,0,225,0,0,124,4.0,0,660,1510,0,,Breakfast,McDonalds
+Bacon Egg  Cheese Biscuit Meal,200723,/us/en-us/meal/bacon-egg-cheese-biscuit-meal.html,605,310,2580,19,58,4,3,1,34,14,0,215,0,0,194,3.5,0,640,1650,0,,Breakfast,McDonalds
+Bacon Egg  Cheese McGriddles Meal,200715,/us/en-us/meal/bacon-egg-cheese-mcgriddles-meal.html,575,260,2440,19,63,4,15,13,29,10,0,215,0,0,204,3.5,0,620,1550,0,,Breakfast,McDonalds
+Sausage Egg  Cheese McGriddles Meal,200714,/us/en-us/meal/sausage-egg-cheese-mcgriddles-meal.html,695,370,2930,21,63,4,15,13,41,14,0,235,0,0,204,3.5,0,670,1610,0,,Breakfast,McDonalds
+Sausage McGriddles Meal,200717,/us/en-us/meal/sausage-mcgriddles-meal.html,575,290,2420,13,60,4,14,13,32,10,0,35,0,0,94,3.0,0,580,1310,0,,Breakfast,McDonalds
+Sausage Burrito Meal,200716,/us/en-us/meal/sausage-burrito-meal.html,455,220,1920,15,44,3,2,1,25,8,0,170,0,0,154,3.0,0,570,1120,0,,Breakfast,McDonalds
+CocaCola,200611,/us/en-us/product/coca-cola-small.html,150,0,620,0,39,0,39,39,0,0,0,0,0,0,2,0,0,10,40,0,,Drinks,McDonalds
+Sprite,200615,/us/en-us/product/sprite-small.html,140,0,580,0,35,0,35,35,0,0,0,0,0,0,2,0,0,0,70,0,,Drinks,McDonalds
+Dr Pepper,200613,/us/en-us/product/dr-pepper-small.html,140,0,590,0,36,0,36,36,0,0,0,0,0,0,2,0,0,0,15,0,0,Drinks,McDonalds
+Fanta Orange,203057,/us/en-us/product/fanta-orange-small.html,150,0,620,0,39,0,38,38,0,0,0,0,0,0,2,0,0,20,40,0,,Drinks,McDonalds
+Diet Coke,200612,/us/en-us/product/diet-coke-small.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,45,50,0,,Drinks,McDonalds
+HiC Orange Lavaburst,203556,/us/en-us/product/hi-c-orange-lavaburst-small.html,160,0,660,0,40,0,40,40,0,0,0,0,0,0,2,39,0,15,40,0,0,Drinks,McDonalds
+Frozen Fanta Blue Raspberry,201971,/us/en-us/product/frozen-fanta-blue-raspberry-small.html,60,0,240,0,16,0,16,16,0,0,0,0,0,0,0,0,0,0,30,0,,Drinks,McDonalds
+Frozen CocaCola Classic,202274,/us/en-us/product/frozen-coke-small.html,60,0,250,0,16,0,16,16,0,0,0,0,0,0,0,0,0,0,25,0,,Drinks,McDonalds
+Strawberry Banana Smoothie,200152,/us/en-us/product/strawberry-banana-smoothie-small.html,190,5,800,2,44,2,39,0,0.5,0,0,5,0,0,70,0.5,0,250,40,0,,Drinks,McDonalds
+Mango Pineapple Smoothie,200155,/us/en-us/product/mango-pineapple-smoothie-small.html,200,5,820,2,45,1,42,0,0.5,0,0,5,0,0,70,0,0,210,35,0,,Drinks,McDonalds
+Lemonade,203957,/us/en-us/product/lemonade-small.html,150,0,610,0,37,0,34,34,0,0,0,0,0,0,4,0,0,40,10,0,,Drinks,McDonalds
+Sweet Tea,200627,/us/en-us/product/sweet-tea-small.html,100,0,430,0,26,0,24,24,0,0,0,0,0,0,15,0,0,35,15,0,,Drinks,McDonalds
+Unsweetened Iced Tea,200626,/us/en-us/product/iced-tea-small.html,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,0,0,45,10,0,,Drinks,McDonalds
+Hot Tea,202116,/us/en-us/product/hot-tea-small.html,10,0,40,2,0,0,0,0,0,0,0,0,0,0,10,0,0,55,5,0,,Drinks,McDonalds
+Minute Maid Premium Orange Juice,201248,/us/en-us/product/minute-maid-orange-juice-medium-201248.html,190,0,810,3,45,1,41,0,0,0,0,0,0,0,45,0.5,0,760,45,0,,Drinks,McDonalds
+Honest Kids Appley Ever After Organic Juice Drink,203082,/us/en-us/product/honest-kids-appley-ever-after-6-fl-oz-drink-box.html,35,0,150,0,8,0,8,0,0,0,0,0,0,0,0,0,0,75,15,0,,Drinks,McDonalds
+1 Low Fat Milk Jug,200610,/us/en-us/product/1-low-fat-milk-jug.html,100,20,420,8,12,0,11,0,2,1.5,0,10,0,2,260,0,0,350,80,0,,Drinks,McDonalds
+Reduced Sugar Low Fat Chocolate Milk Jug,200607,/us/en-us/product/reduced-sugar-low-fat-chocolate-milk-jug.html,130,20,540,9,18,0,14,3,2.5,1.5,0,10,0,2,270,1,0,390,85,0,,Drinks,McDonalds
+Hot Chocolate,200162,/us/en-us/product/hot-chocolate-small.html,370,110,1560,11,54,1,47,32,13,8,0,45,0,2,380,0.5,270,560,180,0,,Drinks,McDonalds
+DASANI Water,200609,/us/en-us/product/dasani-water.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Drinks,McDonalds
+Sausage Biscuit,200301,/us/en-us/product/sausage-biscuit.html,460,270,1920,11,37,2,2,1,30,13,0,35,0,0,70,2.5,0,200,1090,0,,123Dollarmenu,McDonalds
+Sausage McMuffin,200449,/us/en-us/product/sausage-mcmuffin.html,400,230,1680,14,29,2,2,1,26,10,0.5,55,0,0,140,2.5,0,190,760,0,,123Dollarmenu,McDonalds
+Sausage Burrito,200267,/us/en-us/product/sausage-burrito.html,310,150,1280,13,25,1,2,1,17,7,0,170,0,0,140,2.5,0,170,800,0,,123Dollarmenu,McDonalds
+Hash Browns,200340,/us/en-us/product/hash-browns.html,140,70,610,2,18,2,0,0,8,1,0,0,0,0,8,0.5,0,240,310,0,,123Dollarmenu,McDonalds
+McDouble,200491,/us/en-us/product/mcdouble.html,400,180,1660,22,33,2,7,5,20,9,1,70,0,0,100,3.5,0,330,920,0,2,123Dollarmenu,McDonalds
+McChicken,200438,/us/en-us/product/mcchicken.html,400,190,1670,14,39,1,5,4,21,3.5,0,40,0,0,20,2.5,0,320,560,0,1,123Dollarmenu,McDonalds
+Chicken McNuggets,200692,/us/en-us/product/chicken-mcnuggets-4-piece.html,170,90,700,9,10,0,0,0,10,1.5,0,25,0,0,6,0.5,0,140,330,0,,123Dollarmenu,McDonalds
+World Famous Fries,200066,/us/en-us/product/small-french-fries.html,230,100,950,3,31,3,0,0,11,1.5,0,0,0,0,10,0.5,0,470,190,0,,123Dollarmenu,McDonalds
+CocaCola,200611,/us/en-us/product/coca-cola-small.html,150,0,620,0,39,0,39,39,0,0,0,0,0,0,2,0,0,10,40,0,,123Dollarmenu,McDonalds
+Sprite,200615,/us/en-us/product/sprite-small.html,140,0,580,0,35,0,35,35,0,0,0,0,0,0,2,0,0,0,70,0,,123Dollarmenu,McDonalds
+Fanta Orange,203057,/us/en-us/product/fanta-orange-small.html,150,0,620,0,39,0,38,38,0,0,0,0,0,0,2,0,0,20,40,0,,123Dollarmenu,McDonalds
+Dr Pepper,200613,/us/en-us/product/dr-pepper-small.html,140,0,590,0,36,0,36,36,0,0,0,0,0,0,2,0,0,0,15,0,0,123Dollarmenu,McDonalds
+Diet Coke,200612,/us/en-us/product/diet-coke-small.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,45,50,0,,123Dollarmenu,McDonalds
+HiC Orange Lavaburst,203556,/us/en-us/product/hi-c-orange-lavaburst-small.html,160,0,660,0,40,0,40,40,0,0,0,0,0,0,2,39,0,15,40,0,0,123Dollarmenu,McDonalds
+Unsweetened Iced Tea,200626,/us/en-us/product/iced-tea-small.html,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,0,0,45,10,0,,123Dollarmenu,McDonalds
+Sweet Tea,200627,/us/en-us/product/sweet-tea-small.html,100,0,430,0,26,0,24,24,0,0,0,0,0,0,15,0,0,35,15,0,,123Dollarmenu,McDonalds
+McCrispy,203747,/us/en-us/product/mccrispy-chicken-sandwich.html,470,180,1950,26,46,1,9,7,20,5,0,70,0,0,30,2,0,420,1140,0,1,Chicken And Fish Sandwiches,McDonalds
+Deluxe McCrispy,203745,/us/en-us/product/deluxe-mccrispy-chicken-sandwich.html,530,230,2210,27,48,2,10,7,26,4,0,65,0,0,30,2.5,0,490,1050,0,2,Chicken And Fish Sandwiches,McDonalds
+Spicy McCrispy,203901,/us/en-us/product/spicy-mccrispy-chicken-sandwich.html,530,230,2210,27,48,2,9,8,26,4,0,65,0,0,30,2.5,0,440,1320,0,2,Chicken And Fish Sandwiches,McDonalds
+Spicy Deluxe McCrispy,203873,/us/en-us/product/spicy-deluxe-mccrispy-chicken-sandwich.html,530,230,2230,27,49,2,10,8,26,4,0,65,0,0,30,2.5,0,510,1200,0,2,Chicken And Fish Sandwiches,McDonalds
+FiletOFish,200445,/us/en-us/product/filet-o-fish.html,390,170,1630,16,39,2,5,4,19,4,0,30,0,0,60,2,0,290,580,0,2,Chicken And Fish Sandwiches,McDonalds
+McChicken,200438,/us/en-us/product/mcchicken.html,400,190,1670,14,39,1,5,4,21,3.5,0,40,0,0,20,2.5,0,320,560,0,1,Chicken And Fish Sandwiches,McDonalds
