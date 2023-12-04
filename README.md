@@ -20,7 +20,7 @@ The following libraries are required to run the project:
 
 You can install these libraries using pip:
 ```bash
-pip install pandas numpy matplotlib plotly seaborn requests beautifulsoup4 tqdm
+pip install -r requirements.txt
 ```
 
 ### Installation
